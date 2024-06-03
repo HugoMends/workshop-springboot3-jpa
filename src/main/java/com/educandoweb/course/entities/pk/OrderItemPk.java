@@ -9,6 +9,7 @@ import com.educandoweb.course.entities.Product;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 
+
 public class OrderItemPk implements Serializable{
 
 	private static final long serialVersionUID = 1L;
